@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<head>
+<title> Hermes Ogumba </title>
+<style>
+body {
+     text-align: center;
+     background: url("https://imgur.com/a/5TkhdLz");
+     background-size: cover;
+     background-position: center;
+     color: white;
+     font-family: helvetica;
+}
+p{ 
+    font-size: 22px;
+}
+    input{
+      border: 0;
+      padding: 10px;
+      font-size: 18px;
+    }
+    
+    input [type="submit"]{
+    background: black;
+    color: white;
+    }
+</style>
+</head>
+<body>
+<img src="https://imgur.com/a/nR21jkA">
+<p> Hi My name is Hermes Ogumba. I am a UI designer</p>
+<input type="email" placeholder="your email">
+<input type="submit>
+</body>
