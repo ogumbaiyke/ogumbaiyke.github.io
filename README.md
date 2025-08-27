@@ -1,3 +1,0 @@
-### Portfolio
-
-    Live Learn Grow.
